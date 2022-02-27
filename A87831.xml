@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the distressed state of the church of Christ professing the protestant religion in the great dukedom of Lithuania, presented to the view of all compassionate Christians.</title>
+            <author>Krainski, John de Kraino.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87831</idno>
+            <idno type="STC">Wing K750B</idno>
+            <idno type="STC">ESTC R227274</idno>
+            <idno type="EEBO-CITATION">99896362</idno>
+            <idno type="PROQUEST">99896362</idno>
+            <idno type="VID">154237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154237)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the distressed state of the church of Christ professing the protestant religion in the great dukedom of Lithuania, presented to the view of all compassionate Christians.</title>
+                  <author>Krainski, John de Kraino.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the year of our salvation,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John de Kraino Krainski.--Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martyrs --  Early works to 1800.</term>
+               <term>Persecution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154237:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:154237:1"/>
+            <!-- PDF PAGE 46 -->
+            <p>A RELATION OF THE <hi>DISTRESSED STATE</hi> OF THE CHURCH of
+CHRIST, <hi>PROFESSING</hi> The <hi>Proteſtant</hi> Religion in the Great
+<hi>Dukedom</hi> of <hi>LITH<g ref="char:V">Ʋ</g>ANIA, Preſented to the view of all
+Compaſſionate</hi> Chriſtians.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. XLI. 1, 2.</hi>
+               </bibl> 
+               <p>Bleſsed is he that conſidereth the Poor, the Lord will
+deliver him in time of trouble. The Lord will preſerve him, and keep him
+alive, and he ſhall be bleſſed upon the Earth, and thou wilt not deliver
+him into the Will of his Enemies.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>LAMENT. III. 52, 53, 54.</hi>
+               </bibl> 
+               <p>Mine Enemies chaſed me ſore like a Bird, without cauſe:
+They have cut off my life in the Dungeon, and caſt a Stone upon me. Waters
+flowed over mine Head, then I ſaid, I am cut off.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year of our Salvation 1661.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:154237:2"/>
+            <!-- PDF PAGE 47 -->
+            <q>
+               <bibl>
+                  <hi>Lament. I. 16.</hi>
+               </bibl> 
+               <p>For theſe things I weep; mine Eye, mine Eye runneth down with
+water; becauſe the <hi>Comforter,</hi> that ſhould relieve my Soul, is far
+from me: my <hi>Children are deſolate; becauſe the Enemy
+prevailed.</hi>
+               </p>
+            </q>
+            <q> 
+               <p>They have heard, that I ſigh, there is none to comfort me: all
+mine <hi>Enemies</hi> have heard of my trouble, and they are glad,
+<hi>&amp;c.</hi>
+               </p>
+               <bibl>
+                  <hi> Ibid.</hi> v. <hi>21.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154237:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>
+               <hi>A</hi> Relation <hi>of the Diſtreſſed State of
+the</hi> Church <hi>of</hi> Chriſt, <hi>profeſsing the</hi> Proteſtant
+<hi>Religion in the Great</hi> Dukedom <hi>of</hi> Lithuania; <hi>Preſented
+to the view of all Compaſſionate</hi> Chriſtians.</head>
+            <p>THE fatal and Bloody <hi>Tragedy,</hi> which, with a great deal
+of Confuſion, hath been acted on the <hi>Theatre</hi> of <hi>Europe,</hi>
+near upon fourty years, or upwards, having daſhed moſt potent <hi>Kingdoms,
+Nations,</hi> and <hi>Provinces,</hi> one againſt another, hath at laſt
+(with more Severi<g ref="char:EOLhyphen"/>ty, becauſe <hi>later</hi>) reached our <hi>Sarmatian</hi>
+Climate, and therein that moſt flouriſhing Kingdom of <hi>Poland,</hi> but
+eſpecially the Great <hi>Dukedom</hi> of <hi>Lithuania,</hi> and the
+<hi>Provinces</hi> belonging thereunto; wherein it hath ſo ruined, and
+deſtroyed many magnificent, and populous <hi>Cities,</hi> leſſer
+<hi>Towns,</hi> and <hi>Villages</hi> without number; that there are not ſo
+much, as any Marks left, where they ſtood before.</p>
+            <p>This is now the twelfth year, ſince the higheſt, and
+<hi>moſt righ<g ref="char:EOLhyphen"/>teous Judg</hi> of all <hi>unrighteous Nations,</hi> having
+baniſhed Peace from our Countrey, hath, in his fierce anger, called for many
+perfidi<g ref="char:EOLhyphen"/>ous, cruel, ſwift, and mighty <hi>Nations,</hi> to execute his
+Judgments againſt us. And theſe, not having been in the leaſt provoked by
+Us, but onely thirſting after our <hi>Fortunes,</hi> and <hi>Blood,</hi> have
+waſhed their cruel hands therein, and are not ſatisfied therewith, but to
+the ſpoiling of the Goods have added moſt exquiſite Torments upon the
+<hi>Bodies</hi> of the true <hi>Profeſſours</hi> of
+<hi>Chriſtianity.</hi>
+            </p>
+            <p>In the Year 1648. when the firſt <hi>Rebellion</hi> of the
+<hi>Coſſacks</hi> broke forth, to whom the <hi>Tartarians</hi> readily did
+aſſociate them<g ref="char:EOLhyphen"/>ſelves, the <hi>Nobility</hi> was ſought out, with much
+diligence, by the furious <hi>Rebels,</hi> to be ſlaughtered; and all ſuch,
+as were not of the <hi>Greek Religion,</hi> were moſt ignominiouſly put to
+death, with<g ref="char:EOLhyphen"/>out any diſtinction; where were many numerous
+<hi>Congregations</hi> 
+               <pb facs="tcp:154237:3"/>
+               <!-- PDF PAGE 48 -->of the
+<hi>Reformed Proteſtants,</hi> whoſe <hi>Miniſters</hi> were not ſpared
+alſo.</p>
+            <p>And the <hi>Cruelty</hi> of the furious <hi>Coſſacks</hi>
+was ſo barbarous, that the <hi>Tartars</hi> themſelves (though their
+<hi>Aſſociates</hi>) would not be guil<g ref="char:EOLhyphen"/>ty of ſo much Innocent Blood; but
+compaſſionately did reſcue as many, as they could, out of their
+hands.</p>
+            <p>Many had their <hi>Skins</hi> pulled over their <hi>Ears,</hi>
+whileſt they were <hi>alive.</hi> Others had their <hi>Hands,</hi> and
+<hi>Feet,</hi> cut off. Some had their <hi>Bowels</hi> taken out, alive. Others
+had their <hi>Shin-bones</hi> bored thorough. To ſome they poured <hi>melted
+Lead</hi> in at the <hi>Wounds,</hi> which they made in their <hi>Heads,</hi>
+or <hi>Bodies.</hi> Their <hi>Eyes</hi> were plucked out: there is no number of
+thoſe, that were <hi>hanged.</hi> And it was accounted a <hi>great
+Mercy,</hi> if any had his <hi>Head</hi> cut off with a <hi>Sword,</hi> or if
+they were ſent away as <hi>perpetual Sl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves</hi> to the <hi>Turk.</hi> Poor <hi>Parents,</hi> and
+<hi>Husbands,</hi> were forced to look on, whileſt their <hi>Wives,</hi> and
+<hi>Daughters</hi> were raviſhed.</p>
+            <p>This was the miſerable Condition of our <hi>Countrey,</hi> and
+<hi>Church,</hi> for ſeveral years together, during the <hi>Civil Wars.</hi>
+But afterwards, when we all begun to hope for <hi>better</hi> things, there
+fell a <hi>new,</hi> and more ſtrange Calamity upon us, when we were almoſt
+conſu<g ref="char:EOLhyphen"/>med before. For the perfidious <hi>Moſcov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te,</hi> having taken notice of the diſtraction, and
+devaſtation, which by the juſt Hand of <hi>God</hi> befell us; and that the
+ſtrength of <hi>Lithuania</hi> was, by continual <hi>Inteſtine Wars,</hi>
+decayed, he preſently took an opportunity to in<g ref="char:EOLhyphen"/>vade it; and, to that effect,
+having found out ſome <hi>Pretenſes,</hi> he came with an <hi>Army</hi> of
+two hundred thouſand men, and aſſocia<g ref="char:EOLhyphen"/>ted to himſelf ſixty thouſand
+of the Rebellious <hi>Coſsacks;</hi> who carried all before them, like a
+<hi>Flood,</hi> ſpoiling, burning, deſtroying all, that they met with,
+ſacking the <hi>ſtrong Holds,</hi> and <hi>Cities,</hi> not leaving one
+Corner in all <hi>Lithuania</hi> unſearched. Never was greater
+<hi>Tyrannie</hi> committed in thoſe Parts before. There was no regard of
+<hi>Tears,</hi> and <hi>Lamentations:</hi> no Pity ſhewed to yielding
+Perſons: all, without diſcretion, were cut to pieces. The <hi>common
+Multitude</hi> were ſlaughtered out of hand; but the <hi>Gentry,</hi> and
+<hi>No<g ref="char:EOLhyphen"/>bility</hi> were carried away; and, upon deliberation, were either
+<hi>hanged,</hi> or <hi>burnt alive.</hi> Every Corner being filled with
+<hi>Maſſacres,</hi> made the Blood run, like <hi>Streams,</hi> through the
+<hi>Streets</hi> of Towns, and Cities.</p>
+            <p>But the Condition of the <hi>Miniſters</hi> of
+<hi>Chriſt</hi> was moſt miſera<g ref="char:EOLhyphen"/>ble; <pb facs="tcp:154237:3"/>
+               <!-- PDF PAGE 48 -->for
+as many, as were taken, were, with mo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ments,</hi> put to ſeveral kinds
+of death.</p>
+            <p>
+               <hi>Adrian Chylinsky,</hi> a man moſt conſpicuous both for
+his <hi>old Age,</hi> as alſo for his <hi>Piety,</hi> and <hi>Learning,</hi>
+whereby he deſerved eminently of the <hi>Church</hi> of <hi>Chriſt,</hi>
+being ſurpriſed at his own houſe, had his <hi>Hands,</hi> and
+<hi>Legs,</hi> tyed together, and then <hi>roſted alive,</hi> leiſurely by
+degrees, there being but ſome <hi>Chips,</hi> and <hi>Straw,</hi> gathered
+about him. Two of the ſame <hi>Name,</hi> a <hi>Father,</hi> and a
+<hi>Son,</hi> called <hi>Smolsky,</hi> both <hi>Miniſters</hi> of
+<hi>Chriſt,</hi> near <hi>Vilna,</hi> the chiefeſt City in
+<hi>Lithuania,</hi> had their <hi>Heads</hi> moſt cruelly ſawed off with a
+<hi>Sickle.</hi> Another <hi>Miniſter,</hi> in a Town called
+<hi>Holowozyn,</hi> whoſe Name was <hi>Slawin<g ref="char:EOLhyphen"/>skie,</hi> had a <hi>new</hi>
+Torment put upon him: for they cut him by pie<g ref="char:EOLhyphen"/>ces, ſo long, as he lived. Many
+other <hi>Miniſters</hi> were amongſt the high <hi>Mountains</hi> expoſed
+bound, and naked, to the <hi>Snow,</hi> and ex<g ref="char:EOLhyphen"/>tream cold <hi>Air;</hi> which
+made their noble Souls forſake their mi<g ref="char:EOLhyphen"/>ſerable <hi>Tabernacles.</hi> And
+by this kind of death, this laſt <hi>Winter,</hi> there were deſtroyed
+above fifteen hundred innocent Souls; who, ſeeking for ſhelter, were in
+their <hi>flight</hi> over-taken. Thoſe, that were moſt <hi>healthy,</hi>
+or <hi>ſtrong,</hi> were ſent away to be made <hi>Slaves;</hi> but others
+were either flay'd alive, or cut into pieces. The num<g ref="char:EOLhyphen"/>ber of thoſe, that were
+thus miſerably put to death, as alſo the ſeveral kinds of
+<hi>Torments,</hi> which poor innocent Creatures were put to, no
+<hi>Hiſtory</hi> can deſcribe.</p>
+            <p>In this <hi>Juncture</hi> of <hi>Affairs,</hi> all the
+<hi>Miniſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> of
+<hi>Chriſt</hi> were for<g ref="char:EOLhyphen"/>ced to forſake their <hi>Dwelling-places.</hi> And
+there is above fourty, of whom it is not known, what kind of death they
+ſuffered: but that they are dead, is certain; becauſe they are not found,
+nor were they carried into <hi>Captivity.</hi> The <hi>Churches,</hi> for the
+moſt part, as far as the <hi>Enemy</hi> could reach, were deſtroyed by
+<hi>Fire:</hi> All the <hi>Bells</hi> were carried away; ſo that there are
+but few left in the whole <hi>Dukedom.</hi> The <hi>deſolate Fields,</hi> and
+<hi>Water</hi> onely were left, as Witneſſes of the inſolency of a
+<hi>barbarous Enemy;</hi> for all <hi>Dwelling-places,</hi> and <hi>Woods</hi>
+were pulled, and cut down, and burnt to Aſhes.</p>
+            <p>One would think, that the Land had been by this time
+chaſti<g ref="char:EOLhyphen"/>ſed ſufficiently, and that the ſharp Rod of our Correction
+ſhould have been broken: but God was not yet pleaſed to put a period to our
+Calamities; for every year our Countrey had a <hi>New Ene<g ref="char:EOLhyphen"/>my</hi> 
+               <pb facs="tcp:154237:4"/>
+               <!-- PDF PAGE 49 -->raiſed upon it, and ſo that
+little, which the <hi>former</hi> had left, the <hi>ſucceeding</hi> Enemy
+devoured: For, in the year 1655, the Multi<g ref="char:EOLhyphen"/>tude of our <hi>Enemies</hi> was
+augmented, by the coming of the <hi>Swede:</hi> whoſe Armies, by reaſon of
+the vicinity of theſe three <hi>Provinces, Boruſſia, Curland,</hi> and
+<hi>Liefland,</hi> which they had in their power, have, for the ſpace of five
+years, afflicted our Countrey alſo. And, without any reſpect of the
+<hi>Proteſtant Religion,</hi> they uſed <hi>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as <hi>Ene<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es:</hi> and, by their coming into the Countrey, they
+made us lya<g ref="char:EOLhyphen"/>ble to be more hated by thoſe of the <hi>Roman Religion,</hi>
+then before; although after that all the <hi>Poliſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Armies</hi> had forſaken their <hi>King,</hi> and that
+His <hi>Sacred Royal Majeſty</hi> had with drawn himſelf out of His
+<hi>Kingdom,</hi> by reaſon of the Power of the <hi>Enem<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> who preſſed all places, and being abſent
+for a very long time in <hi>Si<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſia,</hi> yet the <hi>Lithuanian Churches,</hi> all that time,
+remained ſtill conſtant, and faithful to their <hi>Gracious King.</hi>
+            </p>
+            <p>All this came upon us, undoubtedly, becauſe of the
+<hi>Sins</hi> of our Country: yet the <hi>Wrath</hi> of God did ſtill burn
+againſt us; for, a little while after, He did ſend <hi>another</hi> Enemy,
+out of <hi>another Cor<g ref="char:EOLhyphen"/>ner,</hi> to wit, the <hi>Prince</hi> of <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranſylvania;</hi> in whoſe
+<hi>Army,</hi> beſides the <hi>Hungarians,</hi> and
+<hi>Tranſylvanians,</hi> there were <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldavians, Valachians, Servians,</hi> and other <hi>Eaſtern</hi>
+Barbarous <hi>Nations,</hi> who came with great hopes, that they ſhould be
+enriched with our <hi>Fortunes,</hi> and <hi>Goods.</hi>
+            </p>
+            <p>This brought a new Calamity upon that, which remained; for they
+made <hi>havock</hi> of all, waſted, and deſtroyed all <hi>without
+diſtin<g ref="char:EOLhyphen"/>ction.</hi> The <hi>Churches,</hi> that remained, they robbed; the
+<hi>Houſes</hi> rifled, and burnt; the <hi>People</hi> driven into <hi>B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niſhment;</hi> and thoſe, that could
+not fly, were <hi>murthered.</hi>
+            </p>
+            <p>It cannot be ſufficiently lamented, much leſs uttered, what
+in ſuch long continuance of our <hi>Troubles,</hi> amongſt ſo many
+<hi>E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtern, Western,
+Northern,</hi> and other <hi>Enemies,</hi> our <hi>Native Country,</hi> the
+<hi>Church,</hi> and every <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mber</hi> thereof, have ſuffered. The <hi>dead,</hi> and the
+<hi>unborn,</hi> were then accounted bleſſed: the <hi>weaker Sex</hi> was
+reputed as the moſt Infortunate; For we have ſeen ma<g ref="char:EOLhyphen"/>ny
+<hi>Illuſtrious,</hi> and <hi>N<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble Families</hi> ſo exhauſted, and brought to extremitie; that
+they have not had <hi>Bread</hi> to eat. We have ſeen <hi>Noble Men,</hi> and
+<hi>Matrons, Virgins,</hi> and <hi>Children</hi> of great <hi>Paren<g ref="char:EOLhyphen"/>tage</hi> 
+               <pb facs="tcp:154237:4"/>
+               <!-- PDF PAGE 49 -->mancipated under the pleaſure, and
+ſervitude of the <hi>Muſco<g ref="char:EOLhyphen"/>vians, Tartarians, Coſſacks,</hi> and
+others; under which both they, and many <hi>Miniſters</hi> of the
+<hi>Goſpel</hi> to this day do groan heavily.</p>
+            <p>In conſideration of thoſe <hi>Extremitis,</hi> which indeed
+are <hi>extra<g ref="char:EOLhyphen"/>ordinary,</hi> we cannot but adore the juſt <hi>Judgments</hi>
+of God thus poured upon us by reaſon of our <hi>Sins,</hi> and deplore our
+ſad con<g ref="char:EOLhyphen"/>dition: and the more by reaſon of the ſmall hopes of
+Reſtitu<g ref="char:EOLhyphen"/>tion, or deliverance from ſuch a Devaſtation. For, though we are
+brought very low already, having been made ſubject to ma<g ref="char:EOLhyphen"/>ny
+<hi>Waſtings,</hi> great <hi>Terrours,</hi> and <hi>Troubles,</hi> as having
+had Death before our Eyes continually; yet there is ſtill matter of new
+<hi>Troubles</hi> at home, eſpecially to thoſe, that deſire to ſerve
+God in ſimplicity, and purity: to this particularly one Calamity fol<g ref="char:EOLhyphen"/>loweth
+another, as the Waves, in a <hi>tempeſtuous Sea,</hi> come one upon
+another.</p>
+            <p>Our very <hi>Neighbours</hi> do hate, and perſecute the
+<hi>Remnant</hi> of us ſtill, with as much eagerneſs, as our <hi>foreign
+Enemies</hi> did: they deprive us of our <hi>Churches</hi> yet remaining:
+thoſe <hi>Lands,</hi> which were given for the maintainance of
+<hi>Miniſters,</hi> and <hi>Scholes,</hi> they give away, as if they had been
+their own: our <hi>Miniſters</hi> are baniſhed; and ſuch, as remain are
+beaten, and misuſed: the Threatnings of our <hi>total Exilement</hi> are
+encreaſed: In a word, all the <hi>Reformed Proteſtans</hi> are accounted as
+the <hi>Off-ſcou<g ref="char:EOLhyphen"/>ring of the World,</hi> and the original cauſe of all the
+<hi>Troubles,</hi> which are hitherto befallen to the Country. Hence it is,
+that they are hated, abuſed, threatned more and more: and whatſoever may be
+found <hi>odious</hi> amongſt men, all that is put upon them, for to make
+their calamities the greater.</p>
+            <p>We do not queſtion, but that all, that ſhall read, or hear
+of theſe things, and have the leaſt <hi>ſpark</hi> of <hi>Chriſtian
+Charitie</hi> left in their Hearts: or take to heart the <hi>affliction</hi> of
+<hi>Joſeph,</hi> will take Compaſſion on us being affected with the truth
+of that <hi>Worſhip, Doctrine,</hi> and <hi>Godlineſs,</hi> which did
+ſhine amongſt us, even in the midſt of our <hi>Troubles.</hi>
+            </p>
+            <p>For <hi>our parts,</hi> we have no other recourſe, but to the
+<hi>Goodneſs</hi> of our <hi>God,</hi> and the <hi>ſympathie</hi> of the
+<hi>Members</hi> of his <hi>Church;</hi> and therefore, following the
+<hi>Practiſe</hi> of the <hi>Apoſtles</hi> of <hi>Chriſt,</hi> and the 
+<pb facs="tcp:154237:5"/>
+               <!-- PDF PAGE 50 -->
+               <hi>Example</hi> of the
+<hi>Churches</hi> in the <hi>Palatinate, Bohemia,</hi> and others; which being
+in the ſame condition, ſome few years ago, implored the aid of their
+<hi>fellow-Members</hi> of the <hi>Reformed-Proteſtant Church,</hi> we do
+likewiſe make our recourſe to your <hi>Goodneſs,</hi> and
+<hi>Charitie.</hi> For we are perſwaded, that God hath in theſe Times made
+theſe <hi>Kingdoms,</hi> and <hi>Churches</hi> more happy, and flouriſhing,
+then others, that they might be a place for <hi>refuge,</hi> and a
+<hi>Port</hi> of <hi>ſafety</hi> for thoſe, that ſuffer
+<hi>Ship-wrack</hi> for the <hi>Name</hi> of <hi>Jeſus</hi> elſewhere.</p>
+            <p>Look therefore, we beſeech you, upon us, as <hi>Objects</hi>
+of <hi>Pitie,</hi> and for the <hi>Love of God,</hi> for the <hi>ſacred bonds
+of unity</hi> in <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus,</hi> ſtretch forth your hands, that
+the <hi>
+                  <g ref="char:V">Ʋ</g>ine-yard</hi> of the <hi>Lord</hi> may not be utterly deſtroyed.
+Send ſuitable comforts to thoſe, that are comfortleſs; ſtrengthen the
+hands of the <hi>feeble;</hi> ſupport the <hi>weak,</hi> ſupply the wants
+of the <hi>needy</hi> with your <hi>liberality:</hi> not doubting, but that the
+<hi>Lord,</hi> who is the <hi>rewarder of all good deeds,</hi> and who takes
+all the works of <hi>Charitie,</hi> beſtowed upon the <hi>Members</hi> of his
+<hi>Militant Church,</hi> as if they had been beſtowed up<g ref="char:EOLhyphen"/>on himſelf, will
+be your ſufficient reward, and at the Great day of Accounts will put you in
+minde of ſuch Works for your <hi>eter<g ref="char:EOLhyphen"/>nal</hi> comfort. Theſe are the
+prayers, and deſires of thoſe; who, in the name of all the <hi>Lithuanian
+Churches,</hi> have ſent their <hi>Meſſen<g ref="char:EOLhyphen"/>ger</hi> to you, who
+ſollicits this in <hi>their</hi> Name, as having been an
+<hi>Eye-witneſs,</hi> in many places, of their diſtreſſed condition,
+and partaker of their Evils.</p>
+            <closer>
+               <signed>
+                  <hi>John de Kraino Krainski,</hi> Miniſter of
+God's Word, and the <hi>Meſſen<g ref="char:EOLhyphen"/>ger</hi> of the
+<hi>Churches.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:154237:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
